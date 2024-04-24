@@ -10,5 +10,5 @@ int main(){
 
     cout<<"first element"<<" "<<q.front()<<endl;
 
-    cout<<"size"<<q.size()<<endl;
+    cout<<"size"<<" "<<q.size()<<endl;
 }
