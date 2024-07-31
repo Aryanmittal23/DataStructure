@@ -8,7 +8,7 @@ int main(){
     s.insert(2);
     s.insert(0);
     s.insert(1);
-    s.insert(5);
+    s.insert(5); // they store only unique value
     s.insert(6);
     s.insert(6);
     s.insert(6);
